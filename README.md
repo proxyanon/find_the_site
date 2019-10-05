@@ -1,9 +1,10 @@
 # find_the_site
-## Do you need a company website? This small library finds websites in duckduckgo website.
+## Search any website link using any word finds on duckduckgo website, you can bypass blocked ip or others 
+filters.
 ##### Install
 
 ```
-pip install find_the_site
+python -m pip install find_the_site requests bs4 user_agent
 ```
 
 ##### Find the website
